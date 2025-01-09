@@ -1,0 +1,24 @@
+.boss{
+    width: 1440px;
+    height: 705px;
+    background-color: #FBEDE4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.item-boss{
+    display: flex;
+    justify-content: space-between;
+    width: 1284px;
+    height: 577px;
+}
+.class{
+    width: 618px;
+    height: 577px;
+    left: 24px;
+    background-image: url(./pages/cart/img/Frame.png);
+}
+.img-3{
+    width: 618px;
+    height: 577px;
+}
